@@ -11,3 +11,7 @@ The project is a single page website.
 ## Стек
 * HTML
 * CSS
+
+URL: 
+
+https://tatianakud.github.io/Project-1.2/
