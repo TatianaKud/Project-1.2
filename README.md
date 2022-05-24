@@ -5,6 +5,12 @@ The project is a single page website.
 * HTML
 * CSS
 
+
+## URL: 
+
+https://tatianakud.github.io/Project-1.2/
+
+
 # Четыре правила верстки
 Проект представляет собой одностраничный сайт.
 
@@ -12,6 +18,6 @@ The project is a single page website.
 * HTML
 * CSS
 
-URL: 
+## Ссылка на сайт: 
 
 https://tatianakud.github.io/Project-1.2/
